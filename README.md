@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on machine learning, Analytics and AI projects
 - 💬 Ask me anything about Data
 - 📫 How to reach me:
-  Email: swathixm@gmail.com
-  Linkedin: https://www.linkedin.com/in/swathi-manjunatha
+  **Email:** swathixm@gmail.com
+  **LinkedIn:** https://www.linkedin.com/in/swathi-manjunatha
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I think I am funny and only few people know it.. 
   
