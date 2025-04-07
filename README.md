@@ -7,8 +7,8 @@
 - 📫 How to reach me:
   **Email:** swathixm@gmail.com
   **LinkedIn:** https://www.linkedin.com/in/swathi-manjunatha
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I think I am funny and only few people know it.. 
+- ✨ Pronouns: she/her
+- ⚡ Fun fact: I think I am funny 😄 
   
 <!--
 **swathi-manjunatha/swathi-manjunatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
