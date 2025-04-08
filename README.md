@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Swathi
+## Hi there 👋, my name is Swathi
 
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning data engineering concepts, building ETL piplelines..
