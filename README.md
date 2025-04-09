@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning data engineering concepts, building ETL piplelines..
-- 👯 I’m looking to collaborate on machine learning, Analytics and AI projects
+- 👯 I’m looking to collaborate on machine learning, Data Vizualization, Analytics and Gen AI projects
 - 💬 Ask me anything about Data
 - 📫 How to reach me:
   **Email:** swathixm@gmail.com
