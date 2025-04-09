@@ -5,7 +5,7 @@
 
 
 ### 🔭 What I’m Currently Working On
-- 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines using **Apache Spark**, **Airflow**, and **Azure Data Factory**
+- 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines using **Apache Spark**, **Airflow**, **AWS Glue**, and **Azure Data Factory**
 - 🧠 **Churn Prediction & Sales Forecasting** using advanced time series models
 - 🛍️ **Customer Segmentation & Market Basket Analysis** for retail strategy
 
@@ -14,7 +14,7 @@
 ### 🌱 Learning & Growing In
 - 🤖 **Deep Learning**, **NLP**, and **LLMs** (BERT, GPT, RAG)
 - 🔧 **MLOps** – Model deployment, CI/CD, and monitoring
-- ☁️ Data Engineering with **dbt**, **Snowflake**, and **Streaming Frameworks**
+- ☁️ Data Engineering with **dbt**, **Snowflake**, **AWS** and **Streaming Frameworks**
 
 
 
