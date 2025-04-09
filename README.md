@@ -1,26 +1,42 @@
-## Hi there 👋, my name is Swathi
+## 👋 Hi there, I'm Swathi!
 
-- 🔭 I’m currently working on data science projects
-- 🌱 I’m currently learning data engineering concepts, building ETL piplelines..
-- 👯 I’m looking to collaborate on machine learning, Data Vizualization, Analytics and Gen AI projects
-- 💬 Ask me anything about Data
-- 📫 How to reach me:
-  **Email:** swathixm@gmail.com
-  **LinkedIn:** https://www.linkedin.com/in/swathi-manjunatha
-- ✨ Pronouns: she/her
-- ⚡ Fun fact: I think I am funny 😄 
-  
-<!--
-**swathi-manjunatha/swathi-manjunatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 A data-driven enthusiast passionate about solving real-world problems with the power of **Machine Learning, Big Data**, and **Cloud technologies**. Currently pursuing my Master’s in Information Systems at UTA and working on diverse data science and engineering projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Currently Working On
+- 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines using **Apache Spark**, **Airflow**, and **Azure Data Factory**
+- 🧠 **Churn Prediction & Sales Forecasting** using advanced time series models
+- 🛍️ **Customer Segmentation & Market Basket Analysis** for retail strategy
+
+---
+
+### 🌱 Learning & Growing In
+- 🤖 **Deep Learning**, **NLP**, and **LLMs** (BERT, GPT, RAG)
+- 🔧 **MLOps** – Model deployment, CI/CD, and monitoring
+- ☁️ Data Engineering with **dbt**, **Snowflake**, and **Streaming Frameworks**
+
+---
+
+### 🤝 Open to Collaborate On
+- 🧪 Machine Learning Projects
+- 📊 Data Visualization & Dashboards (Tableau, Power BI)
+- 🔍 Gen AI & Retrieval-Augmented Generation (RAG)
+- 🛠️ Analytics in Retail, Supply Chain, and CPG domains
+
+---
+
+### 📫 Let's Connect!
+- ✉️ **Email**: swathixm@gmail.com  
+- 💼 **LinkedIn**: [Swathi Manjunatha](https://www.linkedin.com/in/swathi-manjunatha)  
+
+---
+
+### ✨ Fun Facts
+- Pronouns: she/her  
+- I turn data into insights — and jokes too 😄  
+- Believe me, my code has fewer bugs than a summer picnic 🍉
+
+---
+
+> “Data is not just numbers — it's a story waiting to be told.” 📊📖
