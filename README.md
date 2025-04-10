@@ -15,7 +15,7 @@
 ### 🌱 Learning & Growing In
 - 🤖 **Deep Learning**, **NLP**, and **LLMs** (BERT, GPT, RAG)
 - 🔧 **MLOps** – Model deployment, CI/CD, and monitoring
-- ☁️ Data Engineering with **dbt**, **Snowflake**, **AWS** and **Streaming Frameworks**
+- ☁️ Data Engineering with **dbt**, **Snowflake**, **AWS** and **ADF**
 
 
 
