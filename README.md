@@ -34,9 +34,7 @@
 
 
 ### ✨ Fun Facts 
-- I turn data into insights — and jokes too 😄  
 - Believe me, my code has fewer bugs than a summer picnic 🍉
-
 
 
 > “Data is not just numbers — it's a story waiting to be told.” 📊
