@@ -6,6 +6,7 @@
 
 ### 🔭 What I’m Currently Working On
 - 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines
+
 Previously,
 - 🧠 **Churn Prediction & Sales Forecasting** using advanced time series models
 - 🛍️ **Customer Segmentation & Market Basket Analysis** for retail strategy
