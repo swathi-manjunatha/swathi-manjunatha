@@ -5,7 +5,8 @@
 
 
 ### 🔭 What I’m Currently Working On
-- 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines using **Apache Spark**, **Airflow**, **AWS Glue**, and **Azure Data Factory**
+- 🚀 **Big Data & Cloud Projects** – Building scalable ETL pipelines
+Previously,
 - 🧠 **Churn Prediction & Sales Forecasting** using advanced time series models
 - 🛍️ **Customer Segmentation & Market Basket Analysis** for retail strategy
 - 📊 **Sales Profitability Dashboard** – Built an interactive dashboard to visualize key KPIs like revenue, profit margin, and regional sales trends using Tableau
